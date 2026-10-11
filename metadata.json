@@ -1,0 +1,6 @@
+{
+  "name": "Kuran Sureleri 3D Etiket Bulutu",
+  "description": "114 Kuran suresi 3D interaktif küre etiket bulutu ve Seçkin Akay YouTube bağlantıları.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
