@@ -2,7 +2,7 @@
 
 Projenin canlı versiyonunu incelemek için aşağıdaki butona veya görsele tıklayabilirsiniz:
 
-[![Web Sitesini Görüntüle](https://shields.ioTEYİ_AÇ-brightgreen?style=for-the-badge)](https://seckinakay.github.io/blogger/kuranneon.html)
+[![Web Sitesini Görüntüle](https://shields.io-brightgreen?style=for-the-badge)](https://seckinakay.github.io/blogger/kuranneon.html)
 
 
 
