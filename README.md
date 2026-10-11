@@ -1,7 +1,9 @@
 # 🚀 Proje Başlığı
 
 Projenin canlı versiyonunu incelemek için aşağıdaki butona veya görsele tıklayabilirsiniz:
-[![Canlı Siteyi Aç](https://shields.ioTEYİ_AÇ-brightgreen?style=for-the-badge)](https://seckinakay.github.io/blogger/kuranneon.html)
+<a href="https://seckinakay.github.io/blogger/kuranneon.html">
+  <img src="https://shields.io" alt="Canlı Sitede Gör">
+</a>
 
 
 
