@@ -2,7 +2,7 @@
 
 Projenin canlı versiyonunu incelemek için aşağıdaki butona veya görsele tıklayabilirsiniz:
 <a href="https://seckinakay.github.io/blogger/kuranneon.html">
-  <img src="https://shields.io" alt="Canlı Sitede Gör">
+  <img src="https://shields.io" alt="Canlı Sitede Bak">
 </a>
 
 
